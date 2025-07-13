@@ -14,8 +14,6 @@
     "@chakra-ui/toast": "^7.0.2",
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
-    "@react-three/drei": "^10.5.0",
-    "@react-three/fiber": "^9.2.0",
     "framer-motion": "^11.11.10",
     "googleapis": "^144.0.0",
     "gsap": "^3.13.0",
