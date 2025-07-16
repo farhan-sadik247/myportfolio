@@ -28,7 +28,7 @@ export const projectsData: Project[] = [
     projectDescription: "Built a cross-platform mobile design editor with canvas rendering via Skia, enabling real-time drawing and manipulation. Integrated gesture-based interactions (drag, pinch, zoom) using Gesture Handler and smooth 60fps animations with Reanimated. Enabled adding styled text, importing images, creating shapes, and exporting designs as PNGs.",
     projectTech: ["React Native", "Expo", "TypeScript", "Skia", "Reanimated"],
     projectExternalLinks: {
-      github: "https://github.com/farhan-sadik247/design-editor-app",
+      github: "https://github.com/farhan-sadik247/dragNdrop_editorApp.git",
       demo: "https://tinyurl.com/DragNDrop2o",
       projectLink: "https://tinyurl.com/DragNDrop2o"
     }
@@ -39,7 +39,7 @@ export const projectsData: Project[] = [
     projectDescription: "Developed a decentralized application (DApp) for reporting, tracking, and assisting in finding missing individuals. Enabled public case visibility and secure on-chain reporting with smart contracts on Ethereum. Built features like appointment booking, case tracking, and investigator dashboards for transparency. Integrated MetaMask, Ganache, and Truffle for secure local testing and Docker support for deployment.",
     projectTech: ["Solidity", "React.js", "Web3.js", "Truffle", "Docker"],
     projectExternalLinks: {
-      github: "https://github.com/farhan-sadik247/missing-link"
+      github: "https://github.com/farhan-sadik247/missing-person.git"
     }
   },
   {
@@ -57,9 +57,20 @@ export const projectsData: Project[] = [
     projectDescription: "Developed an online tailoring platform with 3D suit previews, real-time customization using React Three Fiber, and live chat. Integrated Stripe payment gateway and OAuth2.0 login system for secure and seamless transactions. Built admin dashboard with order tracking and gifting features for improved user experience.",
     projectTech: ["MERN Stack", "Stripe", "Socket.io", "React Three Fiber"],
     projectExternalLinks: {
-      github: "https://github.com/al-rafi304/TailorMaven.git",
+      github: "https://github.com/farhan-sadik247/TailorMaven.git",
       demo: "https://tailor-maven-app.vercel.app/",
       projectLink: "https://tailor-maven-app.vercel.app/"
+    }
+  },
+  {
+    image: "/calc.png",
+    projectName: "Calculator Website",
+    projectDescription: "SadikCalc is a sleek and functional scientific calculator application designed to handle both basic arithmetic and advanced mathematical operations. With a clean and intuitive user interface, it supports features such as trigonometric functions (sin, cos, tan), logarithmic and exponential operations, constants like π and e, and toggling between radian and degree modes. The calculator also includes essential functionalities like parentheses handling, percentage calculation, sign toggling, and a clear-all option. Built with a focus on usability and visual clarity, SadikCalc is ideal for users ranging from students to professionals seeking a reliable and stylish tool for everyday calculations.",
+    projectTech: ["MERN Stack", "Node.js", "Tailwind CSS",],
+    projectExternalLinks: {
+      github: "https://github.com/farhan-sadik247/calculator-app.git",
+      demo: "https://calcsdk.netlify.app/",
+      projectLink: "https://calcsdk.netlify.app/"
     }
   },
   {
